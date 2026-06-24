@@ -20,7 +20,7 @@ async def home(request: Request):
         {
             "name": "Network Scanner",
             "description": "Network discovery and port scanning tool",
-            "status": "Planning"
+            "status": "Active Development"
         },
 
     ]
